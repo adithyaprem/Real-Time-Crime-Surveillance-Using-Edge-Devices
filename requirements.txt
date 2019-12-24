@@ -1,0 +1,8 @@
+tensorflow==1.1.0
+numpy
+matplotlib
+opencv-python
+pandas
+scipy
+scikit-image
+seaborn
