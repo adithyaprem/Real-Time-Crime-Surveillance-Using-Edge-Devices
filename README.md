@@ -5,4 +5,6 @@ The paper discusses about an efficient real-time deployment of crime detection i
 * [UCF-Crime](https://www.crcv.ucf.edu/projects/real-world/)
 * [Peliculas Movie Dataset](http://academictorrents.com/details/70e0794e2292fc051a13f05ea6f5b6c16f3d3635/tech&hit=1&filelist=1)
 
+Furthermore, this paper adapts and reuses code from [Microsoft Research's EdgeML repository](https://github.com/microsoft/EdgeML). 
+
 Authors: [Sai Vishwanath Venkatesh](https://github.com/skullsai), [Adithya Prem Anand](https://github.com/adithyaprem), Gokul Sahar S, [Akshay Ramakrishnan](https://github.com/akshayrama) and Vinneth Vijayaraghavan.
