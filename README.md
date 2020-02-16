@@ -3,7 +3,7 @@ This repository consists of the code for the paper titled as "Real-Time Surveill
 
 The paper discusses about an efficient real-time deployment of crime detection in surveillance systems. The datasets used are:
 * [UCF-Crime](https://www.crcv.ucf.edu/projects/real-world/)
-* [Peliculas Movie Dataset](http://academictorrents.com/details/70e0794e2292fc051a13f05ea6f5b6c16f3d3635/tech&hit=1&filelist=1)
+* [Peliculas Movie Dataset](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120448)
 
 Furthermore, this paper adapts and reuses code from [Microsoft Research's EdgeML repository](https://github.com/microsoft/EdgeML). 
 
