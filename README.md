@@ -8,3 +8,6 @@ The paper discusses about an efficient real-time deployment of crime detection i
 Furthermore, this paper adapts and reuses code from [Microsoft Research's EdgeML repository](https://github.com/microsoft/EdgeML). 
 
 Authors: [Sai Vishwanath Venkatesh](https://github.com/skullsai), [Adithya Prem Anand](https://github.com/adithyaprem), Gokul Sahar S, [Akshay Ramakrishnan](https://github.com/akshayrama) and Vinneth Vijayaraghavan.
+
+![Model Architecture](images/model_arch.jpeg)
+<p align="center"> Model Architecture </p>
