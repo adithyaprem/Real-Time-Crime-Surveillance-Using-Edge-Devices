@@ -1,5 +1,5 @@
 # Real-Time Surveillance Based Crime Detection for Edge Devices
-This repository consists of the code for the paper titled as "Real-Time Surveillance Based Crime Detection for Edge Devices" which has been accepted for presentation at the 15th International Conference for Computer Vision Theory and Applications, Valleta, Malta.
+This repository consists of the code for the paper titled as "Real-Time Surveillance Based Crime Detection for Edge Devices" which has been accepted for presentation at the 15th International Conference for Computer Vision Theory and Applications (VISAPP), Valleta, Malta.
 
 The paper discusses about an efficient real-time deployment of crime detection in surveillance systems. The datasets used are:
 * [UCF-Crime](https://www.crcv.ucf.edu/projects/real-world/)
