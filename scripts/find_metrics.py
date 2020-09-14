@@ -4,9 +4,9 @@ import os
 import sys
 import tensorflow as tf
 import numpy as np
-from rnn import EMI_DataPipeline
-from rnn import EMI_BasicLSTM, EMI_GRU, EMI_FastGRNN
-from emirnnTrainer import EMI_Trainer, EMI_Driver
+from emi_functions.rnn import EMI_DataPipeline
+from emi_functions.rnn import EMI_BasicLSTM, EMI_GRU, EMI_FastGRNN
+from emi_functions.emirnnTrainer import EMI_Trainer, EMI_Driver
 from sklearn.metrics import classification_report, confusion_matrix
 import utils
 def emi_model_metrics(model_prefix, x_test,y_test, extracted_dir,model_no):
